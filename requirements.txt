@@ -1,0 +1,14 @@
+kaggle
+kagglehub
+python-decouple
+jupyter
+ipykernel
+pandas
+numpy
+seaborn
+matplotlib 
+scikit-learn
+shap
+lime
+ipywidgets
+jupyter_contrib_nbextensions
