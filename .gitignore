@@ -1,9 +1,12 @@
 # Virtual documents
-.virtual_documents
 
 # Anaconda Projects
 anaconda_projects/
 project_filebrowser.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.virtual_documents
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
