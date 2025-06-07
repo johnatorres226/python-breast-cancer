@@ -6,9 +6,11 @@ ipykernel
 pandas
 numpy
 seaborn
-matplotlib 
+matplotlib
 scikit-learn
 shap
 lime
 ipywidgets
 jupyter_contrib_nbextensions
+scipy
+statsmodels
